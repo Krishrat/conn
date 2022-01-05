@@ -1,2 +1,2 @@
-export const fullName = "Abhishek Jha";
-export const tagline = "Full Stack Developer 🚀";
+export const fullName = "Krishna Gopal Rathi";
+export const tagline = "VIT CHENNAI";
