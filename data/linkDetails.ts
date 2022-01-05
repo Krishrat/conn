@@ -15,63 +15,38 @@ export interface CardProps {
 
 export const CardData: Array<CardProps> = [
   {
-    href: "https://www.linkedin.com/",
+    href: "https://www.linkedin.com/in/krishna-gopal-rathi-a17018195/",
     title: "Linkedin",
     description: "Let's connect on LinkedIn",
   },
   {
-    href: "https://www.youtube.com/",
-    title: "Youtube",
-    description: "Chek out my youtube channel",
-  },
-  {
-    href: "https://www.instagram.com/",
+    href: "https://www.instagram.com/rathi_krishna2000/?hl=en",
     title: "Instagram",
     description: "Get to know me Personally",
   },
   {
-    href: "https://github.com/",
+    href: "https://github.com/Krishrat",
     title: "Github",
     description: "Check out some of my projects",
   },
   {
-    href: "https://twitter.com/",
-    title: "Twitter",
-    description: "Yes, I give opinions too",
-  },
-  {
-    href: "https://web.whatsapp.com/",
+    href: "https://wa.me/917487999183",
     title: "Whatsapp",
     description: "Let's talk on Whatsapp",
   },
   {
-    href: "https://leetcode.com/",
+    href: "https://leetcode.com/Krishrat",
     title: "Leetcode",
     description: "See me grinding DSA daily",
   },
   {
-    href: "https://medium.com/",
-    title: "Medium",
-    description: "Read some of my fantastic articles here",
-  },
-  {
-    href: "https://codeforces.com/",
+    href: "https://codeforces.com/profile/Krishrat2000",
     title: "Codeforces",
     description: "My daily chill zone",
   },
   {
-    href: "https://www.codechef.com/",
-    title: "Codechef",
-    description: "I cook code here",
-  },
-  {
-    href: "https://www.hackerrank.com/",
+    href: "https://www.hackerrank.com/anantrathi2019",
     title: "HackerRank",
     description: "I practice programming here",
-  },
-  {
-    href: "https://www.spotify.com/",
-    title: "Spotify",
-    description: "Listen to some of my favourite songs",
   },
 ];
